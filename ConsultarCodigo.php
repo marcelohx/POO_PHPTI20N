@@ -28,5 +28,7 @@
             ?>
             </button>
         </form>
+        <br><br>
+        <a href="Menu.php"><button>Voltar</button><br><br>
     </body>
 </html>

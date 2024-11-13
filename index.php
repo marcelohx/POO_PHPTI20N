@@ -40,5 +40,7 @@
             ?>
             </button>    
         </form><!-- Fim do formulário -->
+        <br><br>
+        <a href="Menu.php"><button>Voltar</button><br><br>
     </body>
 </html>
